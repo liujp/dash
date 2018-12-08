@@ -1,0 +1,6 @@
+a.modebar-btn.plotlyjsicon.modebar-btn--logo {
+    display: none;
+}
+a.modebar-btn[data-title="Edit in Chart Studio"] {
+    display: none;
+}
